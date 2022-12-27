@@ -1,0 +1,1 @@
+Here is the MySQL_scripts for our model which includes initialization and functions(procedure) scripts.
