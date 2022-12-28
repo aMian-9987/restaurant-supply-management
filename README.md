@@ -9,7 +9,7 @@ This program was first written by Python for gui design and MySQL connector as a
 ### Login: since most functions were managed by owner, we do not design the registration and adding other members rights in the manage page.
 The default login credential is of manager and restraut owner. Eg: management
 
-![image](./user_select.PNG)
+![image](https://github.com/aMian-9987/restaurant-supply-management/blob/main/Figures/user_select.png)
 
 ![](https://github.com/aMian-9987/restaurant-supply-management/blob/main/Figures/admin.gif)
 ![image](./desktop.png)
