@@ -4,7 +4,7 @@ This program was first written by Python for gui design and MySQL connector as a
 
 ## How to run ?
 
-## Sample functions display
+## Sample scenario display
 
 ### Login: since most functions were managed by owner, we do not design the registration and adding other members rights in the manage page.
 The default login credential is of manager and restraut owner. Eg: ckann5 in database is valid.
